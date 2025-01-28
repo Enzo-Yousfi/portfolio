@@ -1,22 +1,22 @@
 {
-    "title" : "Portfolio de Élie Copter",
-    "lastname": "Copter",
-    "firstname": "Élie",
-    "portrait" : "avatar.jpg",
+    "title" : "Portfolio de Enzo Yousfi",
+    "lastname": "Yousfi",
+    "firstname": "Enzo",
+    "portrait" : "profil.png",
     "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis ante in orci auctor pharetra. Duis interdum erat semper nunc faucibus maximus. Proin dapibus auctor sollicitudin. Nulla mattis volutpat enim, ac ultrices odio dignissim id. Morbi nisl nisi, consequat ut finibus non, convallis interdum velit. Maecenas congue diam dolor, non elementum ipsum tincidunt vel. Sed dui ipsum, finibus rhoncus sollicitudin sit amet, varius non nulla. Duis vestibulum facilisis ligula, vel bibendum mauris aliquam in. Etiam urna ligula, pharetra a dictum et, blandit nec leo. Donec consequat tincidunt nisi at consectetur.",
+    "biography": "Bonjour ! Je m’appelle Enzo Yousfi, je suis un étudiant de 20 ans en BUT métiers du multimédia et de l’internet (MMI). J’aime le sport et j’en pratique régulièrement en loisirs, comme le football et le basketball, des disciplines qui m’ont permis de développer un fort esprit d’équipe. Passionné par les arts graphiques, le design et l’informatique, je développe mes compétences créatives et techniques afin d’évoluer dans les domaines liés au digital et à la communication. Dans mon portfolio vous découvrirez mon univers avec mes projets et réalisations qui reflètent ma créativité ainsi que mon envie d’apprendre. Bonne visite !",
     "cv" : "CV.pdf",
     "trainings": [
         {
             "name" : "BUT Métiers du Multimédia et de l'Internet",
             "school" : "IUT de Lannion, Université de Rennes",
-            "start" : 2023,
-            "end" : 2026
+            "start" : 2024,
+            "end" : 2027
         },
         {
-            "name" : "Bac S, option Maths et Arts Plastiques",
-            "school" : "Lycée Félix Le Dantec( 22)",
-            "start" : 2023
+            "name" : "Bac général, spécialité physique-chimie et NSI (Numérique et science informatique), option mathématique complémentaire",
+            "school" : "Lycée Saint-Joseph Loudéac( 22)",
+            "start" : 2022
         }
     ],
     "interests": [
@@ -26,19 +26,20 @@
     ],
     "projects": [
         {
-            "title": "Project 1 : Lorem ipsum dolor sit amet consecitur",
+            "title": "Site Pokemon",
             "context": "Lorem ipsum dolor sit amet consecitur",
             "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
             "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
             "skills": [
-                "3D",
-                "Dev Web"
+                "HTML",
+                "CSS",
+                "Javascript"
             ],
             "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "picture": "pikachu.png"
         },
         {
-            "title": "Project 2 : Lorem ipsum dolor sit amet consecitur",
+            "title": "Affiche festival",
             "context": "Lorem ipsum dolor sit amet consecitur",
             "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
             "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
@@ -47,10 +48,10 @@
                 "Comm"
             ],
             "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "picture": "affiche.png"
         },
         {
-            "title": "Project 3 : Lorem ipsum dolor sit amet consecitur",
+            "title": "Film",
             "context": "Lorem ipsum dolor sit amet consecitur",
             "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
             "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
@@ -60,7 +61,7 @@
                 "Entrepreneuriat"
             ],
             "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "picture": "duck.png"
         },
         {
             "title": "Project 4 : Lorem ipsum dolor sit amet consecitur",
@@ -108,13 +109,13 @@
     ],
     "contacts": [
         {"name" : "Instagram", 
-        "url" : "https://instagram.com",
+        "url" : "https://www.instagram.com/enzo.yousfi/",
         "icon" : "insta.svg"},
         {"name" : "LinkedIn", 
-        "url" : "https://linkedin.com",
+        "url" : "https://www.linkedin.com/in/enzo-yousfi-5726b4281/",
         "icon" : "linkedin.svg"},
         {"name" : "Mail", 
-        "url" : "mailto:elie.copter.titi@etudiant.univ-rennes.fr",
+        "url" : "mailto:enzo.yousfi@etudiant.univ-rennes.fr",
         "icon" : "mail.svg"}
     ]
 }
